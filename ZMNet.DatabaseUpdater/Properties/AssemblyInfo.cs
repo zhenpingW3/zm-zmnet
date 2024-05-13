@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ZMNet.Common")]
-[assembly: AssemblyDescription("ZMNet.Common 2024")]
+[assembly: AssemblyTitle("ZMNet.DatabaseUpdater")]
+[assembly: AssemblyDescription("ZMNet.DatabaseUpdater 2024")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Moody's Analytics.")]
-[assembly: AssemblyProduct("ZMNet.Common")]
+[assembly: AssemblyProduct("ZMNet.DatabaseUpdater")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6574aa62-5346-4c67-88e1-f8d70e8ddc3d")]
+[assembly: Guid("85c6a0aa-d777-46b9-a049-0d4c81eb3197")]
 
 // Version information for an assembly consists of the following four values:
 //
